@@ -1,4 +1,0 @@
-# All Algopro Material U need to master this year
-
-Python
- ^Completing w3schools python
