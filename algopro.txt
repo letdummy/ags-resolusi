@@ -1,3 +1,0 @@
-- mastering python
-  ^completing w3schools python tutorial
-  ^finish kelasterbuka python playlist
