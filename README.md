@@ -6,4 +6,4 @@
 3. Own 2 Website
 4. Master in Python, HTML, and CSS by completing w3schools tutorial
 5. Know the basic of javascript
-6. Finishing Algopro Labs Module this month hahaha
+6. Finishing Algopro Labs Module [FINISHED @October]
